@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-31T23:03:00 EET" name="Default suite" finished-at="2021-07-31T23:04:05 EET" duration-ms="64896">
+    <groups>
+    </groups>
+    <test started-at="2021-07-31T23:03:00 EET" name="Default test" finished-at="2021-07-31T23:04:05 EET" duration-ms="64896">
+      <class name="ZydaTask.ZydaAutomationTask.Purchases">
+        <test-method is-config="true" signature="OpenUrl()[pri:0, instance:ZydaTask.ZydaAutomationTask.Purchases@1018bde2]" started-at="2021-07-31T23:03:00 EET" name="OpenUrl" finished-at="2021-07-31T23:03:05 EET" duration-ms="5259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+        <test-method signature="Buy()[pri:0, instance:ZydaTask.ZydaAutomationTask.Purchases@1018bde2]" started-at="2021-07-31T23:03:05 EET" name="Buy" finished-at="2021-07-31T23:04:05 EET" duration-ms="59611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Buy -->
+      </class> <!-- ZydaTask.ZydaAutomationTask.Purchases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
